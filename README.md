@@ -83,7 +83,7 @@ indices using the vocabulary.
 - Here is visual representation of LSTM model :
 <p align="center">
   <a href="" rel="noopener">
- <img width=300px src="./img/architecture.png" alt="chintak-logo"></a>
+ <img width=500px src="./img/architecture.png" alt="chintak-logo"></a>
 </p>
 
 - For evaluating model I have written `demo_eval.py` script which should be invoked as follows
@@ -101,7 +101,7 @@ corresponding to my model prediction.
   
 <p align="center">
   <a href="" rel="noopener">
- <img width=300px src="./img/model.png" alt="architecture"></a>
+ <img width=500px src="./img/model.png" alt="architecture"></a>
 </p>
 
 ### Model Performance : 
