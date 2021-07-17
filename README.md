@@ -7,8 +7,7 @@
 </div>
 
 ------------------------------------------
-
-This is an `assignment` from one of my courses. In which I had to design, implement and evaluate a deep learning based solution to fix syntactic errors in C programs. The programs were written by students in
+Designed, implemented and evaluated a deep learning based solution to fix syntactic errors in C programs. The programs were written by students in
 introductory programming assignments and contain single-line errors.
 
 ------------------------------------------
