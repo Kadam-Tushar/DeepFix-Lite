@@ -104,7 +104,7 @@ corresponding to my model prediction.
 </p>
 
 ### Model Performance : 
-- 91% token-level accuracy is achieved i.e 91% tokens are mathed from the output produced by network.
+- 91% token-level accuracy is achieved i.e 91% tokens are matched from the output produced by network.
 - 33% of programs is correctly being fixed among all the programs. 
 
 
